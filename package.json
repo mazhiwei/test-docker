@@ -1,0 +1,23 @@
+{
+  "name": "test-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazhiwei/test-docker.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mazhiwei/test-docker/issues"
+  },
+  "homepage": "https://github.com/mazhiwei/test-docker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
